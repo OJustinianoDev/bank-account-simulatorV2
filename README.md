@@ -76,4 +76,4 @@ python __main__.py
 
 ## Author
 
-Cauã
+Cauã Justiniano
